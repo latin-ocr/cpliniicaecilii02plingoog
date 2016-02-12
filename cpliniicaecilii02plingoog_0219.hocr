@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cpliniicaecilii02plingoog_0219.png"; bbox 0 0 592 1110; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 173 491 428 543">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 173 491 428 543">
+     <span class='ocr_line' id='line_1_1' title="bbox 232 491 428 525; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 232 510 292 522; x_wconf 68' lang='lat' dir='ltr'>vamur.</span> <span class='ocrx_word' id='word_1_2' title='bbox 299 506 335 521; x_wconf 68' lang='lat' dir='ltr'>Nam</span> <span class='ocrx_word' id='word_1_3' title='bbox 341 491 428 525; x_wconf 39' lang='lat' dir='ltr'>enumerar-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 173 526 428 543; baseline -0.004 0"><span class='ocrx_word' id='word_1_4' title='bbox 173 536 175 539; x_wconf 91' lang='lat'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 188 537 199 543; x_wconf 47' lang='grc' dir='ltr'>,ψ</span> <span class='ocrx_word' id='word_1_6' title='bbox 208 526 239 543; x_wconf 60' lang='lat' dir='ltr'>blf</span> <span class='ocrx_word' id='word_1_7' title='bbox 243 530 287 543; x_wconf 63' lang='lat' dir='ltr'>moe</span> <span class='ocrx_word' id='word_1_8' title='bbox 291 526 310 541; x_wconf 68' lang='lat' dir='ltr'>ea</span> <span class='ocrx_word' id='word_1_9' title='bbox 315 531 331 541; x_wconf 72' lang='lat' dir='ltr'>ut</span> <span class='ocrx_word' id='word_1_10' title='bbox 335 527 380 542; x_wconf 73' lang='lat' dir='ltr'>dium</span> <span class='ocrx_word' id='word_1_11' title='bbox 385 528 428 543; x_wconf 68' lang='lat' dir='ltr'>7quae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 54 30 538 548">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 54 30 538 548">
+     <span class='ocr_line' id='line_1_3' title="bbox 54 30 538 548; baseline 0 562"><span class='ocrx_word' id='word_1_12' title='bbox 54 30 538 548; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
